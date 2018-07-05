@@ -13,4 +13,5 @@ function whileLoop (number){
   while (countdown > 0) {
   console.log(--countdown)
 }
+  return 'done'
 }
